@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lit-html": "^2.7.5",
+    "playwright": "^1.36.1"
+  }
+}
