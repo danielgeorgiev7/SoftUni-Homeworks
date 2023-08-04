@@ -1,0 +1,23 @@
+{
+  "name": "01.furniture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "form-data": "^4.0.0",
+    "lit-html": "^2.7.5",
+    "mocha": "^10.2.0",
+    "page": "^1.11.6",
+    "playwright-chromium": "^1.36.1"
+  }
+}
