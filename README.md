@@ -1,2 +1,2 @@
-SoftUni Homeworks from my SoftUni course - JS Advanced
+Here are some of my homeworks from SoftUni course - JS Advanced
 
